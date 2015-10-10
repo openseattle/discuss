@@ -2,7 +2,7 @@
 
 <a href="http://openseattleslack.herokuapp.com"><img src="http://openseattleslack.herokuapp.com/badge.svg"></a>
 
-[Discuss all the things!](https://github.com/codeforseattle/discuss/issues)
+[Discuss all the things!](https://github.com/openseattle/discuss/issues)
 
-Follow the code of conduct: http://codeforseattle.org/code-of-conduct/
+Follow the code of conduct: http://openseattle.org/code-of-conduct/
 
